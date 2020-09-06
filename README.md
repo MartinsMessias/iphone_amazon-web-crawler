@@ -1,7 +1,6 @@
 # Amazon Spider - Web Crawler
-
-Web crawler to get iPhone prices in Amazon and save that on a .xlsx file.
-Web crawler para pegar os preços dos iPhones na Amazon e salva-los em uma planilha .xlsx
+#### Web crawler to take the prices of iPhones on Amazon and save them in an .xlsx spreadsheet.
+#### Web crawler para pegar os preços dos iPhones na Amazon e salva-los em uma planilha .xlsx
 
 
 ## Install
