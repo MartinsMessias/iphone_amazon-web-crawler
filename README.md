@@ -12,12 +12,12 @@ $ python3 -m venv env
 $ source env/bin/activate
 ```
 
-## Install requeriments
+### Install requeriments
 ``` bash
 $ pip install -r requirements.txt
 ```
 
-## Usage
+### Usage
 
 ``` bash
 $ scrapy runspider amazon_spider.py
